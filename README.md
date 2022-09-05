@@ -1,5 +1,5 @@
 # Blackjack - Design Patterns
-Blackjack game written for a final project.
+Blackjack for a final end of year project.
 The program is written in Java to implement various design patterns and utilizes the Swing UI toolkit for a GUI.
 
 The following is my report on the final project: 
